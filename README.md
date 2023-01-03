@@ -9,3 +9,5 @@ The final product is saved as a GitHub page.
 https://hak-uma-matata.github.io/Bits-of-Good-Take-Home-Assessment/
 
 Screenshot of the final webpage:
+
+![image](https://user-images.githubusercontent.com/63426041/210430201-ef17a8e7-3bbd-4852-962d-3411874c0935.png)
