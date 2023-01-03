@@ -1,0 +1,51 @@
+body {
+  font-family: "Rubik", monospace;
+  background-color: pink;
+}
+            
+a:hover {
+  color: pink;
+}
+            
+h1 {
+  text-align: right;
+}
+            
+img {
+  border-radius: 5px;
+  opacity: 0.7;
+}
+            
+img:hover {
+  opacity: 1;
+  box-shadow: 5px 5px;
+}
+   
+.child {
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+
+#parent {
+  display: grid; 
+  grid-template-columns: 1fr 2fr; 
+  grid-gap: -6px; 
+  width: 100%;
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+
+#text {
+  background-color: white;
+  padding: 15px;
+  box-shadow: 10px 10px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+#text:hover {
+  background-color: black;
+  color: white;
+}
+
